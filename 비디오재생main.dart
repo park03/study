@@ -1,3 +1,9 @@
+//화면이 초록색으로 나오면서 updateHostColorBuffer: Unexpected DMA 에러가 뜨면 에뮬레이터를 재실행하시오
+
+
+
+
+
 import 'dart:async';
 
 import 'package:flutter/material.dart';
